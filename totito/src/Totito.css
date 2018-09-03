@@ -1,0 +1,22 @@
+
+.container{
+	align-content: center;	
+	text-align: center;
+	
+}
+
+.square {
+	width: 80px; 
+	height: 80px;
+	border: 1px solid black; 
+	display: inline-black; 
+	line-height: 70px;
+}
+
+.board {
+	flex-wrap: wrap;
+	display: inline-flex;
+	width: 320px;
+	margin: 100px;
+
+}
